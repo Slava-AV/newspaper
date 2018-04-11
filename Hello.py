@@ -14,3 +14,4 @@ if __name__ == "__main__":
 	names = names.split(",")
 	# say_hello(sys.argv[1],sys.argv[2])
 	say_hello(names)
+	# Hi!!!
